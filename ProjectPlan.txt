@@ -1,0 +1,17 @@
+Version 1 :-
+1. Employee information - Show Table with Below Columns
+	Name, Joining Date, Birth Date, Allocated to Project
+2. Sort Columns in acending and descending order
+3. Create Employee Form
+4. Show newly created record in the table
+
+Version 2:-  
+5. Based on the data create charts
+	Create bar chart based on Age - Employees between 20-30, 30-40, 40-50 and so on 
+	Create donut chart based on project allocation 
+
+Technology used :- 
+Version 1 :-
+React, React Hooks, JSON Server, 
+Version 2 :-
+D3
