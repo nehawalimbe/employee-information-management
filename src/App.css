@@ -1,4 +1,26 @@
-.App {
+body {
+  background: #20262E;
+  padding: 20px;
+  font-family: Helvetica;
+}
+
+#app {
+  background: #fff;
+  border-radius: 4px;
+  padding: 20px;
+  transition: all 0.2s;
+}
+
+th, td {
+  border: 1px solid;
+  padding: 10px;
+}
+
+.header {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +57,5 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
+

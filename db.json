@@ -1,0 +1,23 @@
+{
+    "columns" : ["Id", "Name", "Date of Birth", "Date of Joining"],
+    "employees" : [
+        {
+            "id": 1,
+            "name": "Sowmya",
+            "dob": "1988-06-23",
+            "doj": "2020-01-19"
+        },
+        {
+            "id": 2,
+            "name": "Sanjeev",
+            "dob": "1975-02-03",
+            "doj": "2001-09-15"
+        },
+        {
+            "id": 3,
+            "name": "Venkat",
+            "dob": "1983-12-03",
+            "doj": "2015-04-03"
+        }
+    ]
+}
