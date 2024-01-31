@@ -5,12 +5,8 @@ function EmployeeTable({columns, employees}) {
 	return (<div id="app">
         <div className="header">Employee Information</div>
         <table>
-            <thead>
-                <TableHeader columns={columns}></TableHeader>
-            </thead>
-            <tbody>
-                <TableRow employees={employees}></TableRow>
-            </tbody>
+            <TableHeader columns={columns}></TableHeader>
+            <TableRow employees={employees}></TableRow>
         </table>
     </div>);
 }

@@ -15,3 +15,13 @@ Version 1 :-
 React, React Hooks, JSON Server, 
 Version 2 :-
 D3
+
+---------------------------------------------
+Completed :-
+- Fetch columns from JSON Server
+- Show columns as Table Header
+- Fetch employee information from JSON Server
+- Show employee information inside table rows
+
+Next Step :-
+- sort Table headers
